@@ -20,5 +20,5 @@
     -Machine learing(regression)
     
 ## 4. 세부내용
-    1.![image](https://user-images.githubusercontent.com/87842980/131618873-f7c74c6f-99f3-4af3-81f1-c771343c359b.png)
+    1. ![2_결측치그래프](https://user-images.githubusercontent.com/87842980/131619557-78ac9bb8-3e10-4927-92a8-423e67099e84.png)
 
