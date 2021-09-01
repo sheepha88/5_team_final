@@ -28,4 +28,4 @@
 
     (2)위치데이터 처리
     --shapely.geometry와 geopandas를 이용한 위치데이터 처리
-
+![그림5](https://user-images.githubusercontent.com/87842980/131621758-64e04355-e1e0-4e23-b191-decd03fe759b.png)
