@@ -40,8 +40,5 @@
     R의 All Subset Regression
     -가장 설명력이 높은 모델을 선택하는 방법
     -차원의 저주를 해결, 모델링을 위한 변수선택(feature engineering)
-    ![그림6](https://user-images.githubusercontent.com/87842980/131622772-e1ab6784-cbce-47f2-944e-c47e1478e12e.png)
-
-
-
+<img src="https://user-images.githubusercontent.com/87842980/131622820-4ada316a-53ae-49c8-8345-f02435612c11.png" width="30%">
 
