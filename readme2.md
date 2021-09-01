@@ -26,4 +26,6 @@
 
 <img src="https://user-images.githubusercontent.com/87842980/131620635-da4732b5-6010-46a8-94cc-487a37f153de.png" width="30%"><img src="https://user-images.githubusercontent.com/87842980/131620637-e9bd5e7b-4c7b-47a5-bb77-7e31abdf090a.png" width="30%"><img src="https://user-images.githubusercontent.com/87842980/131620638-2e59446c-4fcb-4898-94e4-a5d6fa41bb55.png" width="30%">
 
+    (2)위치데이터 처리
+    --shapely.geometry와 geopandas를 이용한 위치데이터 처리
 
