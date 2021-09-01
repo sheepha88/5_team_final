@@ -19,4 +19,6 @@
   3. Modeling
     -Machine learing(regression)
     
-##
+## 4. 세부내용
+    1.![image](https://user-images.githubusercontent.com/87842980/131618873-f7c74c6f-99f3-4af3-81f1-c771343c359b.png)
+
