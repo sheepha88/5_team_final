@@ -24,5 +24,5 @@
     (1) 결측치처리
     -결측치 삭제 및 결측치 범주형 변수처리
     
-    ![2_결측치그래프](https://user-images.githubusercontent.com/87842980/131619420-6417c79e-27c9-45d3-b98d-b41e4be8942a.png){: width="50%" height="50%"}
 
+<img src="https://user-images.githubusercontent.com/87842980/131619420-6417c79e-27c9-45d3-b98d-b41e4be8942a.png" width="40%">
