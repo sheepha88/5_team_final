@@ -31,4 +31,17 @@
 ![그림5](https://user-images.githubusercontent.com/87842980/131621758-64e04355-e1e0-4e23-b191-decd03fe759b.png)
 
 
-    (3)
+    (3) one-hot encoding
+    -pd.get_dummies
+    
+    
+    
+ 2. Feature engineering
+    R의 All Subset Regression
+    -가장 설명력이 높은 모델을 선택하는 방법
+    -차원의 저주를 해결, 모델링을 위한 변수선택(feature engineering)
+    ![그림6](https://user-images.githubusercontent.com/87842980/131622772-e1ab6784-cbce-47f2-944e-c47e1478e12e.png)
+
+
+
+
