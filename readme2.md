@@ -20,5 +20,9 @@
     -Machine learing(regression)
     
 ## 4. 세부내용
-![2_결측치그래프](https://user-images.githubusercontent.com/87842980/131619557-78ac9bb8-3e10-4927-92a8-423e67099e84.png)
+ 1. 전처리
+    (1) 결측치처리
+    -결측치 삭제 및 결측치 범주형 변수처리
+    
+    ![그림1](https://user-images.githubusercontent.com/87842980/131619855-ae3fec31-07c3-41d2-a402-648eb8fa4281.png)
 
