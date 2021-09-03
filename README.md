@@ -24,9 +24,8 @@
 
 ### 4. Project Summary
 ---
-```
 https://yummy-land-e13.notion.site/fce15906e55f41e2a98c9de982a27c1e
-```
+
 
 
 ### 5. 실행 방법
