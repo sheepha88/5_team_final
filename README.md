@@ -2,33 +2,33 @@
 
 
 
-### 1. **분석 배경**
+### 1. **Summary**
 ---
 **Safety : 범죄 재난으로 부터 안전한 국민의 삶의 위해**  
 **Policy :  다양한 치안 정책 사업에 도움을 위해**  
 **Feeling : 국민이 체감할 수 있는 성과로 이어질 수 있도록**
 
+<br>
 
-
-### 2. **평가 방법**
+### 2. **Goals**
 ---
 **다양한 요인을 분석하여 실시간 안전도 예측을 위해 경찰이 가진 자원, 주민들이 가진 자원을 활용하여 안전도 개선**
 
+<br>
 
-
-### 3. 해결목표
+### 3. **evaluation method**
 ---
 **MAE(Mean Absolute Error)**
 
-
+<br>
 
 ### 4. Project Summary
 ---
 https://yummy-land-e13.notion.site/fce15906e55f41e2a98c9de982a27c1e
 
+<br>
 
-
-### 5. 실행 방법
+### 5. How to run
 ---
 ```
 0) 최종데이터셋
@@ -48,8 +48,17 @@ https://yummy-land-e13.notion.site/fce15906e55f41e2a98c9de982a27c1e
 4) 딥러닝
   - 딥러닝 코드파일 및 결과제출양식 코드파일
 ```
-
+<br>
 
 ### 6. Using Libraries
 ---
 [Libraries](https://www.notion.so/954e04bfa62540c790b5e68aaaac39c0)
+
+<br>
+
+### 7. Troubleshooting 
+---
+compas 노트북에서는 저희팀의 딥러닝모델이 작동되지 않습니다.
+그 이유는 로컬에서 작업했을때에는 tensorflow 1 버전이었으나 compas 노트북은 tensorflow2 이기 때문입니다
+다양한 방법으로 개선해보려 했으나 방법을 찾지 못했습니다  
+**tensorflow 1.15.0에서 구현시, 전혀 문제가 없음을 알려드립니다.**
