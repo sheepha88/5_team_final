@@ -22,10 +22,10 @@ Feeling : 국민이 체감할 수 있는 성과로 이어질 수 있도록**
 
 ---
 
-# 4**. Project Summary**
+# 4. Project Summary
 
 ```
-**https://yummy-land-e13.notion.site/fce15906e55f41e2a98c9de982a27c1e**
+https://yummy-land-e13.notion.site/fce15906e55f41e2a98c9de982a27c1e
 ```
 
 ---
